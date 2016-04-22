@@ -1,5 +1,2 @@
 hello
 hello2
-猿
-犬
-雉
